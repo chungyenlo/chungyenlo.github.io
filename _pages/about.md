@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at Indiana University, Bloominton. My research is in empirical industrial organization, with a focus on mergers, demand estimation, and market power in consumer-product markets.
+I am a PhD candidate in Economics at [Indiana University Bloominton](https://bloomington.iu.edu). My research is in empirical industrial organization, with a focus on mergers, demand estimation, and market power in consumer-product markets.
 
 **I am on the 2026–2027 academic job market.**
 
 My job market paper, *Concentration without Greater Market Power? Evidence from a Sugar Refining Acquisition in the United States*, studies whether a merger between sugar refiners affects competition in the retail markets where their brands compete. [Paper (PDF)](/files/Lo_JMP.pdf)
 
 **Contact:** cl86@iu.edu
-Department of Economics, Indiana University, Bloomington, IN
+Department of Economics, Wylie Hall 310 Indiana University, Bloomington, IN 47405
