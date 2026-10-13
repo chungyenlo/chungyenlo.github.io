@@ -13,5 +13,7 @@ I am a PhD candidate in Economics at [Indiana University Bloominton](https://blo
 
 My job market paper, *Concentration without Greater Market Power? Evidence from a Sugar Refining Acquisition in the United States*, studies whether a merger between sugar refiners affects competition in the retail markets where their brands compete. [Paper (PDF)](/files/Lo_JMP.pdf)
 
-**Contact:** cl86@iu.edu
-Department of Economics, Wylie Hall 310 Indiana University, Bloomington, IN 47405
+
+
+**Email:** cl86@iu.edu
+**Address:** Department of Economics, Wylie Hall 310 Indiana University, Bloomington, IN 47405
