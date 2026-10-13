@@ -16,7 +16,7 @@ This paper examines whether a merger between sugar refiners affects competition 
 
 ## Publications
 
-**To Make or to Buy from a Common Supplier? Strategic Considerations and Welfare Consequences**  
+[**To Make or to Buy from a Common Supplier? Strategic Considerations and Welfare Consequences**](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ijet.12334){:target="_blank"}  
 with Wei-Jen Wen and Wen-Chien Lee  
 *International Journal of Economic Theory*, Vol. 19(1), 2022
 
