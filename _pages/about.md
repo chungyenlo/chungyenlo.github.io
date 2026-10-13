@@ -15,5 +15,9 @@ My job market paper, *Concentration without Greater Market Power? Evidence from 
 
 
 
+
+
+
 **Email:** cl86@iu.edu
+
 **Address:** Department of Economics, Wylie Hall 310 Indiana University, Bloomington, IN 47405
