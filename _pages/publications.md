@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-[**Concentration without Greater Market Power? Evidence from a Sugar Refining Acquisition in the United States**]#(/files/Lo_JMP.pdf){:target="_blank"}
+**Concentration without Greater Market Power? Evidence from a Sugar Refining Acquisition in the United States**
 
 <details>
 <summary><b>Abstract</b></summary>
