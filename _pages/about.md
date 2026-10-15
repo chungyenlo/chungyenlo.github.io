@@ -11,7 +11,7 @@ I am a PhD candidate in Economics at [Indiana University Bloomington](https://bl
 
 **I am on the 2026–2027 job market.**
 
-My job market paper, *Concentration without Greater Market Power? Evidence from a Sugar Refining Acquisition in the United States*, studies whether a merger between sugar refiners affects competition in the retail markets where their brands compete. (Draft upon request)
+My job market paper, *Concentration without Greater Market Power? Evidence from U.S. Sugar’s Acquisition of Imperial Sugar*, studies whether a merger between sugar refiners affects competition in the retail markets where their brands compete. (Draft upon request)
 
 <div style="height: 6em;"></div>
 
