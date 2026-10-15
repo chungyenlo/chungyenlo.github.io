@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at [Indiana University Bloominton](https://bloomington.iu.edu). My research is in empirical industrial organization, with a focus on mergers, demand estimation, and market power in consumer-product markets.
+I am a PhD candidate in Economics at [Indiana University Bloomington](https://bloomington.iu.edu). My research is in empirical industrial organization, using demand estimation to study mergers, market power, and their consequences for welfare.
 
 **I am on the 2026–2027 job market.**
 
