@@ -25,9 +25,9 @@ with Wei-Jen Wen and Wen-Chien Lee
 **The Consumer Surplus Neutral Threshold of Cost Synergies for Horizontal Mergers under Cournot Competition**  
 *Presented at:* Hoosier Economics Conference, Indiana University, April 2023
 
-## Work in Progress
+**Diabetes Diagnosis and Household Purchases of Sugary Products**
 
-**Health Shocks and Consumer Demand: Evidence from Household Ailments**
+## Work in Progress
 
 **Lobbying-Induced Misallocation and Aggregate Productivity**
 
