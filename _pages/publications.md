@@ -22,10 +22,10 @@ with Wei-Jen Wen and Wen-Chien Lee
 
 ## Working Papers
 
+**Diabetes Diagnosis and Household Purchases of Sugary Products**
+
 **The Consumer Surplus Neutral Threshold of Cost Synergies for Horizontal Mergers under Cournot Competition**  
 *Presented at:* Hoosier Economics Conference, Indiana University, April 2023
-
-**Diabetes Diagnosis and Household Purchases of Sugary Products**
 
 ## Work in Progress
 
